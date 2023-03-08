@@ -1,2 +1,1 @@
-tabs: ['README.md']
-terminals: ["echo one", "echo two", "echo three"]
+tabs: ['script.py']
